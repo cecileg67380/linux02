@@ -1,0 +1,23 @@
+wilder@wilder-ThinkPad-T420:~/quetes/shell/planets$ find
+.
+./fictional
+./fictional/coruscant.jpeg
+./fictional/cybertron.jpeg
+./fictional/arrakis.jpeg
+./inhabited
+./inhabited/mars.jpeg
+./inhabited/earth.jpeg
+./inhabited/cybertron.jpeg
+./inhabited/arrakis.jpeg
+./real
+./real/gas-giants
+./real/gas-giants/jupiter.jpeg
+./real/gas-giants/uranus.jpeg
+./real/gas-giants/saturn.jpeg
+./real/gas-giants/neptune.jpeg
+./real/telluric
+./real/telluric/mars.jpeg
+./real/telluric/mercury.jpeg
+./real/telluric/venus.jpeg
+./real/telluric/earth.jpeg
+wilder@wilder-ThinkPad-T420:~/quetes/shell/planets$ 
