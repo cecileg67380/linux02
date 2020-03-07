@@ -1,0 +1,146 @@
+wilder@wilder-ThinkPad-T420:~/quetes/shell/planets$ find
+.
+./fictional
+./fictional/coruscant.jpeg
+./fictional/cybertron.jpeg
+./fictional/arrakis.jpeg
+./inhabited
+./inhabited/mars.jpeg
+./inhabited/earth.jpeg
+./inhabited/cybertron.jpeg
+./inhabited/arrakis.jpeg
+./real
+./real/gas-giants
+./real/gas-giants/jupiter.jpeg
+./real/gas-giants/uranus.jpeg
+./real/gas-giants/saturn.jpeg
+./real/gas-giants/neptune.jpeg
+./real/telluric
+./real/telluric/mars.jpeg
+./real/telluric/mercury.jpeg
+./real/telluric/venus.jpeg
+./real/telluric/earth.jpeg
+wilder@wilder-ThinkPad-T420:~/quetes/shell/planets$ history
+    1  git clone https://github.com/WildCodeSchool/initiation-php-template
+    2  sudo
+    3  sudo apt install git
+    4  cd initiation-php-template
+    5  ls
+    6  mkdir dev
+    7  git clone https://github.com/WildCodeSchool/initiation-php-template
+    8  cd initiation-php-template
+    9  php -S localhost:8000
+   10  sudo apt install php7.2-cli
+   11  php -S localhost:8000
+   12  ls
+   13  clone https://github.com/WildCodeSchool/initiation-php-template
+   14  git clone https://github.com/WildCodeSchool/initiation-php-template
+   15  cd initiation-php-template
+   16  php -S localhost:8000
+   17  ls
+   18  rm -rf initiation-php-template/
+   19  rm examples.desktop 
+   20  ls
+   21  ls .
+   22  ls -a
+   23  ls ./Imae
+   24  ls ./Images
+   25  ls /home/wilder
+   26  ls /home
+   27  ls ..
+   28  ls /bin
+   29  ls -l /bin
+   30  ls
+   31  pwd
+   32  cd Images
+   33  cd ..
+   34  cd /opt
+   35  cd ../home/wilder
+   36  cd /usr/bin
+   37  cd
+   38  cd ~
+   39  cd ~/Musique
+   40  cd
+   41  sudo apt-get install -y curl
+   42  ~/quetes/shell
+   43  cd quetes
+   44  cd shell
+   45  curl -L -o planets.zip https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true
+   46  unzip planets.zip
+   47  mkdir real
+   48  mkdir fictional
+   49  mkdir planets
+   50  mkdir inhabited
+   51  pwd
+   52  ls
+   53  rm inhabited
+   54  rm -r inhabited
+   55  rm -r fictional
+   56  rm -r real
+   57  cd planets
+   58  mkdir real
+   59  mkdir fictional
+   60  mkdir inhabited
+   61  ls
+   62  cd
+   63  cd ~planets/real
+   64  cd real
+   65  cd ~/quetes/shell/planets/real
+   66  mkdir telluric
+   67  mkdir gas-giants
+   68  mkdir dwarf-planets
+   69  ls
+   70  cd.
+   71  cd .
+   72  cd /
+   73  ~
+   74  cd ..
+   75  mv mercury.jpg saturn.jpeg neptune.jpeg uranus.jpeg jupiter.jpeg pluto.jpeg venus.jpeg earth.jpeg mars.jpeg real/
+   76  mv mercury.jpg real/
+   77  mv mercury.jpeg real/
+   78  ls
+   79  mv arrakis.jpeg cybertron.jpeg coruscant.jpeg fictional/
+   80  ls
+   81  cd real
+   82  ls
+   83  mv jupiter.jpeg saturn.jpeg uranus.jpeg neptune.jpeg gas-giants/
+   84  ls
+   85  mv mercury.jpeg venus.jpeg earth.jpeg mars.jpeg telluric/
+   86  ls
+   87  mv pluto.jpeg dwarf-planets
+   88  cp earth.jpeg planets/inhabited
+   89  cd telluric
+   90  cp earth.jpeg planets/inhabited
+   91  cp earth.jpeg ~planets/inhabited
+   92  ls
+   93  cp earth.jpeg mars.jpeg inhabited/
+   94  cp earth.jpeg inhabited
+   95  ls
+   96  rm inhabited
+   97  ls
+   98  cp earth.jpeg /inhabited/
+   99  cp earth.jpeg inhabited/
+  100  cp earth.jpeg planets/real/inhabited/
+  101  pwd
+  102  ls -l
+  103  cp earth.jpeg mars.jpeg /home/wilder/quetes/shell/planets/inhabited/
+  104  ls
+  105  cd
+  106  cd inhabited
+  107  pwd
+  108  cp cybertron.jpeg  arravis.jpeg ../inhabited/
+  109  cd ~fictional
+  110  cd ~/quetes/shell/planets/fictional
+  111  cp arrakis.jpeg cybertron.jpeg ../inhabited/
+  112  cd dwarf-planets
+  113  cd ../real/dwarf-planets
+  114  cd ..
+  115  rm -r dwarf-planets
+  116  find
+  117  ~
+  118  cd ../../../
+  119  cd shell/
+  120  find
+  121  cd planets
+  122  find
+  123  history
